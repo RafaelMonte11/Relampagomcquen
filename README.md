@@ -1,22 +1,20 @@
 # Rafhaeis
 
-###Missão
+# Missão
 
 Nossa missão é promover a conscientização e o engajamento da sociedade na preservação do meio ambiente, combatendo a poluição e incentivando ações sustentáveis. Acreditamos que a limpeza do meio ambiente é essencial para garantir um futuro mais saudável e equilibrado para as próximas gerações. Trabalhamos para criar soluções práticas e acessíveis que ajudem a reduzir o desperdício e a degradação ambiental
 
-###Campo de Visão
+# Campo de Visão
 
 Nosso campo de visão é um mundo onde a poluição seja minimizada, e os recursos naturais sejam preservados para todos. Buscamos construir comunidades mais responsáveis ambientalmente, em que as pessoas, as empresas e os governos se unam para promover práticas mais limpas e ecológicas. A limpeza do meio ambiente não se limita à eliminação de resíduos, mas envolve também a conscientização, a educação e a construção de uma cultura de respeito pela na
 
-###Valores
+# Valores
 
 1. Sustentabilidade - Acreditamos que ações de preservação e limpeza do meio ambiente devem ser realizadas de maneira sustentável, equilibrando as necessidades humanas com a capacidade do planeta de se regenerar.
 2. Responsabilidade - Cada indivíduo tem a responsabilidade de contribuir para um meio ambiente mais limpo. A educação ambiental é essencial para que as pessoas se sintam motivadas a agir de forma consciente e eficaz.
 3. Inovação - Buscamos soluções inovadoras e eficientes para a limpeza do meio ambiente, explorando novas tecnologias e práticas que ajudem a reduzir o impacto ambiental.
 4. Colaboração - Sabemos que a mudança real ocorre quando trabalhamos juntos. Valorizamos a colaboração entre organizações, governos e cidadãos para alcançar um impacto mais amplo e duradouro.
 5. Respeito pela Natureza - Respeitar a natureza e a biodiversidade é um dos nossos princípios fundamentais. Defendemos o direito de todos os seres vivos de coexistirem em um ambiente saudável e equilibrado.
-
-###OKRs(Objectives and Key Results)
 
 # OKRs (Objectives and Key Results)
 **Período de 6 meses**
