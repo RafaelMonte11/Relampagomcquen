@@ -38,3 +38,5 @@ Nosso campo de visão é um mundo onde a poluição seja minimizada, e os recurs
 - **KR1**: Aumentar em 30% o índice de reciclagem nas comunidades participantes do programa.
 - **KR2**: Criar e implementar um sistema de compostagem em 50 residências ou estabelecimentos comerciais.
 - **KR3**: Reduzir o desperdício de alimentos em 20% por meio de campanhas educativas.
+
+  
