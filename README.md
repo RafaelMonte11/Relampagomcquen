@@ -19,7 +19,7 @@ Nosso campo de visão é um mundo onde a poluição seja minimizada, e os recurs
 # OKRs (Objectives and Key Results)
 **Período de 6 meses**
 
-## Objetivo 1: Aumentar a conscientização sobre a preservação ambiental
+#### Objetivo 1: Aumentar a conscientização sobre a preservação ambiental
 - **KR1**: Realizar 5 campanhas de conscientização sobre reciclagem e uso sustentável de recursos.
 - **KR2**: Atingir 10.000 pessoas impactadas pelas campanhas de conscientização.
 - **KR3**: Obter 500 novas inscrições em cursos de educação ambiental online.
