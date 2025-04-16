@@ -17,7 +17,7 @@ Nosso campo de visão é um mundo onde a poluição seja minimizada, e os recurs
 5. Respeito pela Natureza - Respeitar a natureza e a biodiversidade é um dos nossos princípios fundamentais. Defendemos o direito de todos os seres vivos de coexistirem em um ambiente saudável e equilibrado.
 
 # OKRs (Objectives and Key Results)
-**Período de 6 meses**
+**Período de 6 meses no Jaraguá**
 
 ## Objetivo 1: Aumentar a conscientização sobre a preservação ambiental
 - **KR1**: Realizar 5 campanhas de conscientização sobre reciclagem e uso sustentável de recursos.
@@ -53,3 +53,35 @@ Número de Inscrições Obtidas | Metas: 200 | Concluídas: 0 ~~~~~~~~~~~~~~
 Número de Campanhas Realizadas | Metas: 5 | Concluídas: 0
 Número de Pessoas Impactadas | Metas: 1000 | Concluídas: 0
 Número de Inscrições Obtidas | Metas: 200 | Concluídas: 0
+
+🗺️ Roadmap (Resumo de 6 Meses)
+Mês	Meta Principal	Entregas esperadas
+1	Planejamento e visão	Missão, Visão, Valores, OKRs e KPIs
+2	Prototipação inicial	Mockups, validação de ideia, setup do projeto
+3	MVP 1	Funcionalidades básicas, demo funcional
+4	MVP 2 com melhorias	Refino de UX/UI, testes
+5	Validação e crescimento	Métricas, marketing, conteúdo, comunidade
+6	Entrega final e apresentação	Release final, documentação, apresentação
+
+✅ Status dos Sprints
+Sprint	Status	Principais Tarefas
+Sprint 1	🔄 Em andamento	Definir propósito e estrutura do projeto
+Sprint 2	⬜️ Não iniciado	Setup técnico e primeiras funcionalidades
+Sprint 3	⬜️ Não iniciado	MVP funcional e validação inicial
+Sprint 4	⬜️ Não iniciado	Iteração de melhorias com base no feedback
+Sprint 5	⬜️ Não iniciado	Estratégias de alcance e comunidade
+Sprint 6	⬜️ Não iniciado	Apresentação final, métricas, relatório geral
+
+🔚 Relatório Final (preencher no final do projeto)
+Resumo do Projeto:
+Resultados Alcançados:
+OKRs atingidos:
+KPIs finais:
+Lições Aprendidas:
+Dificuldades enfrentadas:
+Próximos passos (caso continue o projeto):
+
+👥 Equipe
+Nome	           | GitHub        |	Função no Projeto
+Raphael Souza   | raphafsx      |
+Rafael Amorim   | RafaelMonte11 |
