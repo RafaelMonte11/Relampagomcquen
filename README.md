@@ -21,22 +21,35 @@ Nosso campo de visão é um mundo onde a poluição seja minimizada, e os recurs
 
 ## Objetivo 1: Aumentar a conscientização sobre a preservação ambiental
 - **KR1**: Realizar 5 campanhas de conscientização sobre reciclagem e uso sustentável de recursos.
-- **KR2**: Atingir 10.000 pessoas impactadas pelas campanhas de conscientização.
-- **KR3**: Obter 500 novas inscrições em cursos de educação ambiental online.
+- **KR2**: Atingir 1.000 pessoas impactadas pelas campanhas de conscientização.
+- **KR3**: Obter 200 novas inscrições em cursos de educação ambiental online.
 
 ## Objetivo 2: Ampliar as ações de limpeza e redução de resíduos
-- **KR1**: Organizar 10 mutirões de limpeza em espaços públicos.
-- **KR2**: Remover 300 toneladas de lixo das áreas urbanas e rurais durante o período.
-- **KR3**: Implementar 3 novos pontos de coleta seletiva em regiões de difícil acesso.
+- **KR1**: Organizar 5 mutirões de limpeza em espaços públicos.
+- **KR2**: Remover 50 toneladas de lixo das áreas urbanas e rurais durante o período.
+- **KR3**: Implementar 3 novos pontos de coleta seletiva em regiões de difícil acesso. ~~~~~~~~~~~~
 
 ## Objetivo 3: Estabelecer parcerias e colaborações com outras organizações
-- **KR1**: Firmar 5 parcerias com ONGs ou organizações ambientais locais.
+- **KR1**: Firmar parcerias com ONGs ou organizações ambientais locais.
 - **KR2**: Desenvolver 3 projetos colaborativos focados em redução de resíduos e sustentabilidade.
 - **KR3**: Garantir o apoio de pelo menos 2 empresas privadas para ações de preservação.
 
 ## Objetivo 4: Melhorar a gestão de resíduos nas comunidades atendidas
 - **KR1**: Aumentar em 30% o índice de reciclagem nas comunidades participantes do programa.
-- **KR2**: Criar e implementar um sistema de compostagem em 50 residências ou estabelecimentos comerciais.
-- **KR3**: Reduzir o desperdício de alimentos em 20% por meio de campanhas educativas.
+- **KR2**: Reduzir o desperdício de alimentos em 20% por meio de campanhas educativas.
 
-  
+ # KPIs(Indicadores Chave de Desempenho) Objetivo 1  //Cumprir metas
+Número de Campanhas Realizadas | Metas: 5 | Concluídas: 0
+Número de Pessoas Impactadas | Metas: 1000 | Concluídas: 0
+Número de Inscrições Obtidas | Metas: 200 | Concluídas: 0
+
+ # KPIs(Indicadores Chave de Desempenho) Objetivo 2  //Cumprir metas
+Número de Mutirões Realizadas | Metas: 5 | Concluídas: 0
+Número de Toneladas de Lixo Removidas | Metas: 50 | Concluídas: 0
+Número de Inscrições Obtidas | Metas: 200 | Concluídas: 0 ~~~~~~~~~~~~~~
+
+
+ # KPIs(Indicadores Chave de Desempenho) Objetivo 3  //Cumprir metas
+Número de Campanhas Realizadas | Metas: 5 | Concluídas: 0
+Número de Pessoas Impactadas | Metas: 1000 | Concluídas: 0
+Número de Inscrições Obtidas | Metas: 200 | Concluídas: 0
